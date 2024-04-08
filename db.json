@@ -1,0 +1,94 @@
+{
+  "developers":[
+    {
+        "id": 1,
+        "name": "Rajat Jha",
+       "profile": "React js Developer",
+        "skills": ["Javascript", "React js", "Next js"],
+        "experince": "4+ years",
+        "education": "B.tech",
+        "ImageUrl":"https://ibb.co/grb2KWB",
+        "email":"tyagiakku518@gmail.com"
+
+      },
+      {
+        "id": 2,
+        "name": "Kanika Tyagi",
+        "profile": "Java Developer",
+       "skills": ["Java", "Springboot"],
+        "experince": "1+ years",
+        "education": "MBA",
+        "ImageUrl": "https://ibb.co/R9jmDT7",
+        "email":"kanikatyagioedt@gmail.com"
+
+      },
+      {
+        "id": 3,
+        "name": "Kalash",
+        "profile": "React js Developer",
+        "skills": ["Javascript", "React js", "Next js"],
+        "experince": "3+ years",
+        "education": "B.tech",
+        "ImageUrl": "https://ibb.co/nnDv9Vq",
+        "email":"kalashtyagi98@gmail.com"
+
+      },
+      {
+        "id": 4,
+        "name": "Inderjeet",
+        "profile": "Angular Developer",
+       "skills": ["Angular"],
+        "experince": "6+ years ",
+        "education": "MBA",
+        "ImageUrl": "https://ibb.co/gJxKP4t",
+        "email":"eeshu@vipusti.com"
+
+        
+        
+      },
+      {
+        "id": 5,
+        "name": "Prashant",
+        "profile": "React js Developer",
+        "skills": ["Javascript", "React js", "Next js"],
+        "experince": "5+ years ",
+        "education": "MCA",
+        "ImageUrl": "https://ibb.co/Y03m6SF",
+        "email":"prashant@vipusti.com"
+
+
+      },
+      {
+        "id": 6,
+        "name": "Nupur",
+        "profile": "Angular Developer",
+       "skills": ["Angular"],
+        "experince": "5+ years",
+        "education": "MBA",
+        "ImageUrl": "https://ibb.co/SnfKnHM",
+        "email":"nupurt@vipusti.com"
+
+      },
+      {
+        "id": 7,
+        "name": "Manvendra",
+        "profile": ".net Developer",
+       "skills": ["Python", "Seo", "AI", "ML"],
+        "experince": "4+ years",
+        "ImageUrl": "https://ibb.co/SnfKnHM",
+        "email":"manvendra@vipusti.com"
+
+      },
+      {
+        "id": 8,
+        "name": "Utsav",
+        "profile": ".net Developer",
+        "skills": ["MCV .Net", "C#", "MySql", "Ajax"],
+        "experince": "1+ years",
+       "education": "BCA",
+       "ImageUrl": "https://ibb.co/tMS17dP",
+       "email":"utsav@vipusti.com"
+
+      }
+  ]
+}

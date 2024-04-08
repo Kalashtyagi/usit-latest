@@ -1,0 +1,126 @@
+{
+  "heading": "What skills are you looking for?",
+  "para": "Select at least one skill",
+  "techList": [
+    {
+      "name": "PHP",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/php.png"
+    },
+    {
+      "name": "React js",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/react-js.png"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/node-js.png"
+    },
+    {
+      "name": "Python",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/python.png"
+    },
+    {
+      "name": "Ruby on Rails",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/ruby-on-rails.png"
+    },
+    {
+      "name": "Java",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/java.png"
+    },
+    {
+      "name": "AWS",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/aws.png"
+    },
+    {
+      "name": "Machine Learning",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/machine-learning.png"
+    },
+    {
+      "name": "Android",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/android.png"
+    },
+    {
+      "name": "Django",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/django.png"
+    },
+    {
+      "name": "Angular",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/angular.png"
+    },
+    {
+      "name": "Javascript",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/javascript.png"
+    },
+    {
+      "name": "React Native",
+      "image": "https://supersourcing-assets.s3.ap-south-1.amazonaws.com/skills-assets/react-native.png"
+    },
+    {
+      "name": "C#",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/c-hash.png"
+    },
+    {
+      "name": "C++",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/c-plus.png"
+    },
+    {
+      "name": "Swift",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/swift.png"
+    },
+    {
+      "name": "Golang",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/golang.png"
+    },
+    {
+      "name": "Azure",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/azure.png"
+    },
+    {
+      "name": "Mobile dev",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/mobile-development.jpg"
+    },
+    {
+      "name": "MEAN",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/mean.png"
+    },
+    {
+      "name": "RoR",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/RoR.png"
+    },
+    {
+      "name": "Fullstack",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/fullStack.png"
+    },
+    {
+      "name": "Wordpress",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/wordpress.png"
+    },
+    {
+      "name": "iOS",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/ios.png"
+    },
+    {
+      "name": "HTML",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/html.png"
+    },
+    {
+      "name": "Ionic",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/ionic.png"
+    },
+    {
+      "name": "Flutter",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/flutter.png"
+    },
+    {
+      "name": "QA",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/qa.png"
+    },
+    {
+      "name": "UI/UX",
+      "image": "https://leads.supersourcing.com/assets/images/newSkills/uiux.png"
+    },
+    {
+      "name": "Others",
+      "image": "https://leads.supersourcing.com/assets/images/not-sure.png"
+    }
+  ]
+}

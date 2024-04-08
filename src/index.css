@@ -1,0 +1,36 @@
+.your-container-class {
+  position: relative;
+  margin-right: 30px;
+}
+
+.your-button-class {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 22px;
+  color: #333; /* Set your desired text color */
+  transition: color 0.3s ease-in-out;
+}
+
+.your-button-class:hover {
+  color: #f09a6b; /* Set your desired hover text color */
+}
+
+/* .your-button-class::before {
+    font-size: 15px;
+    content: "Login";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+    background-color: #fff; 
+    color: #333; 
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  } */
+
+.your-button-class:hover::before {
+  display: block;
+}

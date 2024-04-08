@@ -1,0 +1,87 @@
+.contact .info {
+  width: 100%;
+  background: #fff;
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: #f09a6b;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #e3f0fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #124265;
+}
+
+.contact .info p {
+  padding: 0 0 0 60px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #f09a6b;
+}
+
+.contact .info .email,
+.contact .info .phone {
+  margin-top: 40px;
+}
+
+.contact .info .email:hover i,
+.contact .info .address:hover i,
+.contact .info .phone:hover i {
+  background: #f09a6b;
+  color: #fff;
+}
+
+.contact button {
+  color: black;
+  border-radius: 5%;
+  height: 50px;
+  width: 130px;
+  margin-top: 12px;
+  margin-bottom: 40px;
+  background-color: #f09a6b;
+  border: 1px solid #f09a6b;
+}
+
+.contact button:hover {
+  color: white;
+  background-color: rgb(243, 189, 89);
+}
+
+/* .contact button:hover {
+    color: white;
+    background-color: #124265;
+  } */
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.btn-success {
+  width: 100px;
+  height: 45px;
+  border-radius: 20px;
+}
+.btn-sub {
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  background: green;
+}
